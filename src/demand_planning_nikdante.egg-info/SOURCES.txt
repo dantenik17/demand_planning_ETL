@@ -1,0 +1,9 @@
+LICENCE
+README.md
+pyproject.toml
+src/demand_planning_nikdante/__init__.py
+src/demand_planning_nikdante/main.py
+src/demand_planning_nikdante.egg-info/PKG-INFO
+src/demand_planning_nikdante.egg-info/SOURCES.txt
+src/demand_planning_nikdante.egg-info/dependency_links.txt
+src/demand_planning_nikdante.egg-info/top_level.txt
