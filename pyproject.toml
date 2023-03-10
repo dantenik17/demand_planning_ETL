@@ -1,0 +1,18 @@
+[project]
+name = "demand_planning_nikdante"
+version = "0.0.1"
+authors = [
+  { name="Nikhil Gupta", email="ngupta977@gmail.com" },
+]
+description = "A small example package"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/dantenik17/demand_planning_ETL"
+"Bug Tracker" = "https://github.com/dantenik17/demand_planning_ETL/issues"
